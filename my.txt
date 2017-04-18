@@ -1,2 +1,3 @@
 book
 new book
+last book
